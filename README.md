@@ -15,8 +15,7 @@ A simple and interactive web application to track daily expenses, manage spendin
 
 - **Backend:** Python, Flask
 - **Database:** SQLite, Flask-SQLAlchemy
-- **Frontend:** HTML, Tailwind CSS
-- **Data Visualization:** Chart.js
+- **Frontend:** HTML
 
 ## Project Structure
 
